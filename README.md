@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of `tiktokadsR` is to help `R` users to access google Ads data via `Windsor.ai` `API` in a convenient way from `R`.
+The goal of `tiktokadsR` is to help `R` users to access TikTok Ads data via `Windsor.ai` `API` in a convenient way from `R`.
 
 [Windsor.ai](https://windsor.ai/) allows to get marketing data from any platform. It beautifully simplifies the complexity of dealing with multiple platforms, unlocking unified, valuable information in a format that matters to you. For more details checkout [onboard.windsor.ai](https://onboard.windsor.ai/).
 
